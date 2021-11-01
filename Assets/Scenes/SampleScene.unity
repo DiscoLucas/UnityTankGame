@@ -4315,6 +4315,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 543450653555135618}
+  - component: {fileID: 919132149300055609}
   m_Layer: 0
   m_Name: Shellbine_HR
   m_TagString: Untagged
@@ -4322,6 +4323,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &919132149300055609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132149300055608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d887acc6d2b10a4439ee4db2219183a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectileVelocity: 100
+  isVisible: 0
 --- !u!1 &919132149482015370
 GameObject:
   m_ObjectHideFlags: 0

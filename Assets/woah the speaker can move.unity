@@ -7766,6 +7766,7 @@ GameObject:
   - component: {fileID: 6362798093911677776}
   - component: {fileID: 6362798093911677778}
   - component: {fileID: 6362798093911677777}
+  - component: {fileID: 6362798093911677779}
   m_Layer: 0
   m_Name: Yamaha speaker - SW export
   m_TagString: Untagged
@@ -7820,6 +7821,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 164.52832, y: 268, z: 223.95972}
   m_Center: {x: -191.89041, y: 262.64102, z: 111.9798}
+--- !u!114 &6362798093911677779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6362798093911677775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe868840bc5d91245b6f64b349fc9dad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  funnyMeme: 10
+  nine: 11
 --- !u!4 &8092628073779555925
 Transform:
   m_ObjectHideFlags: 0

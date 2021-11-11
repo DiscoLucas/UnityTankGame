@@ -1,0 +1,4 @@
+{"name":"CameraBookmarks","class":"SimGroup","persistentId":"65ce8b2d-df94-487d-a236-0332252ac1c3","__parent":"MissionGroup"}
+{"name":"PlayerDropPoints","class":"SimGroup","persistentId":"95c6448a-2574-42b8-b199-49248f85e31b","__parent":"MissionGroup","Enabled":"1"}
+{"name":"Sky","class":"SimGroup","persistentId":"988d3f23-c873-4293-9783-8b116ce3c293","__parent":"MissionGroup"}
+{"name":"SimGroup_n","class":"SimGroup","persistentId":"e07a27fd-2f23-4862-86bd-c35d7c18794a","__parent":"MissionGroup"}

@@ -1,0 +1,12 @@
+{
+  "BNG_Sky_02" : {
+    "name" : "BNG_Sky_02",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "c346994e-22fc-4505-bfc2-80ca40b9ce03",
+    "Stages" : [ {}, {}, {}, {} ],
+    "cubemap" : "BNG_Sky_02_cubemap",
+    "materialTag0" : "beamng",
+    "materialTag1" : "Natural"
+  }
+}

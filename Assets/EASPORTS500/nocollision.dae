@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.83.3 commit date:2020-07-22, commit time:06:01, hash:353e5bd7493e</authoring_tool>
+    </contributor>
+    <created>2020-07-30T15:41:20</created>
+    <modified>2020-07-30T15:41:20</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="GRASSNASCARCUPMTL01-effect">
+      <profile_COMMON>
+        <newparam sid="tallad_grassnascarcup_dds-surface">
+          <surface type="2D">
+            <init_from>tallad_grassnascarcup_dds</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="tallad_grassnascarcup_dds-sampler">
+          <sampler2D>
+            <source>tallad_grassnascarcup_dds-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="tallad_grassnascarcup_dds-sampler" texcoord="grasslogos_uv0"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="GRASSNASCARCOMMTL01-effect">
+      <profile_COMMON>
+        <newparam sid="tallad_grassnascarcom_dds-surface">
+          <surface type="2D">
+            <init_from>tallad_grassnascarcom_dds</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="tallad_grassnascarcom_dds-sampler">
+          <sampler2D>
+            <source>tallad_grassnascarcom_dds-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="tallad_grassnascarcom_dds-sampler" texcoord="grasslogos_uv0"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="GRASSEA500MTL01-effect">
+      <profile_COMMON>
+        <newparam sid="tallad_grasstal500_dds-surface">
+          <surface type="2D">
+            <init_from>tallad_grasstal500_dds</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="tallad_grasstal500_dds-sampler">
+          <sampler2D>
+            <source>tallad_grasstal500_dds-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="tallad_grasstal500_dds-sampler" texcoord="grassea01_uv0"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images/>
+  <library_materials>
+    <material id="GRASSNASCARCUPMTL01-material" name="GRASSNASCARCUPMTL01">
+      <instance_effect url="#GRASSNASCARCUPMTL01-effect"/>
+    </material>
+    <material id="GRASSNASCARCOMMTL01-material" name="GRASSNASCARCOMMTL01">
+      <instance_effect url="#GRASSNASCARCOMMTL01-effect"/>
+    </material>
+    <material id="GRASSEA500MTL01-material" name="GRASSEA500MTL01">
+      <instance_effect url="#GRASSEA500MTL01-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="grasslogos-mesh" name="grasslogos">
+      <mesh>
+        <source id="grasslogos-mesh-positions">
+          <float_array id="grasslogos-mesh-positions-array" count="48">-93.1344 364.82 0.06095999 -61.8597 364.82 0.06095999 -93.1344 378.451 0.06095999 -61.8597 378.451 0.06095999 89.37701 364.82 0.06095999 120.652 364.82 0.06095999 89.37701 378.451 0.06095999 120.652 378.451 0.06095999 172.774 351.061 0.06095999 204.049 351.061 0.06095999 172.774 359.515 0.06095999 204.049 359.515 0.06095999 -174.575 351.061 0.06095999 -143.3 351.061 0.06095999 -174.575 359.515 0.06095999 -143.3 359.515 0.06095999</float_array>
+          <technique_common>
+            <accessor source="#grasslogos-mesh-positions-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grasslogos-mesh-normals">
+          <float_array id="grasslogos-mesh-normals-array" count="3">0 0 1</float_array>
+          <technique_common>
+            <accessor source="#grasslogos-mesh-normals-array" count="1" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grasslogos-mesh-map-0">
+          <float_array id="grasslogos-mesh-map-0-array" count="48">1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.982484 0 0.982484 1 0.01313889 0 0.01313889 1 0.01313889 0 0.982484 1 0.995622 0 0.995622 1 0.01313889 0 0.01313889 1 0.01313889 0 0.995622</float_array>
+          <technique_common>
+            <accessor source="#grasslogos-mesh-map-0-array" count="24" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grasslogos-mesh-map-1">
+          <float_array id="grasslogos-mesh-map-1-array" count="48">1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.982484 0 0.982484 1 0.01313889 0 0.01313889 1 0.01313889 0 0.982484 1 0.995622 0 0.995622 1 0.01313889 0 0.01313889 1 0.01313889 0 0.995622</float_array>
+          <technique_common>
+            <accessor source="#grasslogos-mesh-map-1-array" count="24" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grasslogos-mesh-map-2">
+          <float_array id="grasslogos-mesh-map-2-array" count="48">1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.982484 0 0.982484 1 0.01313889 0 0.01313889 1 0.01313889 0 0.982484 1 0.995622 0 0.995622 1 0.01313889 0 0.01313889 1 0.01313889 0 0.995622</float_array>
+          <technique_common>
+            <accessor source="#grasslogos-mesh-map-2-array" count="24" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grasslogos-mesh-map-3">
+          <float_array id="grasslogos-mesh-map-3-array" count="48">1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.999999 0 1 1 0 -4.47035e-7 0 1 0 0 1 1 0.982484 0 0.982484 1 0.01313889 0 0.01313889 1 0.01313889 0 0.982484 1 0.995622 0 0.995622 1 0.01313889 0 0.01313889 1 0.01313889 0 0.995622</float_array>
+          <technique_common>
+            <accessor source="#grasslogos-mesh-map-3-array" count="24" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grasslogos-mesh-colors-grasslogos_color" name="grasslogos_color">
+          <float_array id="grasslogos-mesh-colors-grasslogos_color-array" count="96">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</float_array>
+          <technique_common>
+            <accessor source="#grasslogos-mesh-colors-grasslogos_color-array" count="24" stride="4">
+              <param name="R" type="float"/>
+              <param name="G" type="float"/>
+              <param name="B" type="float"/>
+              <param name="A" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="grasslogos-mesh-vertices">
+          <input semantic="POSITION" source="#grasslogos-mesh-positions"/>
+        </vertices>
+        <triangles material="GRASSNASCARCUPMTL01-material" count="4">
+          <input semantic="VERTEX" source="#grasslogos-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#grasslogos-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-0" offset="2" set="0"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-1" offset="2" set="1"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-2" offset="2" set="2"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-3" offset="2" set="3"/>
+          <input semantic="COLOR" source="#grasslogos-mesh-colors-grasslogos_color" offset="3" set="0"/>
+          <p>0 0 0 0 1 0 1 1 2 0 2 2 3 0 3 3 2 0 4 4 1 0 5 5 4 0 6 6 5 0 7 7 6 0 8 8 7 0 9 9 6 0 10 10 5 0 11 11</p>
+        </triangles>
+        <triangles material="GRASSNASCARCOMMTL01-material" count="4">
+          <input semantic="VERTEX" source="#grasslogos-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#grasslogos-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-0" offset="2" set="0"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-1" offset="2" set="1"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-2" offset="2" set="2"/>
+          <input semantic="TEXCOORD" source="#grasslogos-mesh-map-3" offset="2" set="3"/>
+          <input semantic="COLOR" source="#grasslogos-mesh-colors-grasslogos_color" offset="3" set="0"/>
+          <p>8 0 12 12 9 0 13 13 10 0 14 14 11 0 15 15 10 0 16 16 9 0 17 17 12 0 18 18 13 0 19 19 14 0 20 20 15 0 21 21 14 0 22 22 13 0 23 23</p>
+        </triangles>
+      </mesh>
+    </geometry>
+    <geometry id="grassea01-mesh" name="grassea01">
+      <mesh>
+        <source id="grassea01-mesh-positions">
+          <float_array id="grassea01-mesh-positions-array" count="12">-17.5095 355.032 0.06095999 45.3542 355.032 0.06095999 -17.5095 384.151 0.06095999 45.3542 384.151 0.06095999</float_array>
+          <technique_common>
+            <accessor source="#grassea01-mesh-positions-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grassea01-mesh-normals">
+          <float_array id="grassea01-mesh-normals-array" count="3">0 0 1</float_array>
+          <technique_common>
+            <accessor source="#grassea01-mesh-normals-array" count="1" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grassea01-mesh-map-0">
+          <float_array id="grassea01-mesh-map-0-array" count="12">1 1 0 1 1 1.21395e-6 0 1.25766e-6 1 1.21395e-6 0 1</float_array>
+          <technique_common>
+            <accessor source="#grassea01-mesh-map-0-array" count="6" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grassea01-mesh-map-1">
+          <float_array id="grassea01-mesh-map-1-array" count="12">1 1 0 1 1 1.21395e-6 0 1.25766e-6 1 1.21395e-6 0 1</float_array>
+          <technique_common>
+            <accessor source="#grassea01-mesh-map-1-array" count="6" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grassea01-mesh-map-2">
+          <float_array id="grassea01-mesh-map-2-array" count="12">1 1 0 1 1 1.21395e-6 0 1.25766e-6 1 1.21395e-6 0 1</float_array>
+          <technique_common>
+            <accessor source="#grassea01-mesh-map-2-array" count="6" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grassea01-mesh-map-3">
+          <float_array id="grassea01-mesh-map-3-array" count="12">1 1 0 1 1 1.21395e-6 0 1.25766e-6 1 1.21395e-6 0 1</float_array>
+          <technique_common>
+            <accessor source="#grassea01-mesh-map-3-array" count="6" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="grassea01-mesh-colors-grassea01_color" name="grassea01_color">
+          <float_array id="grassea01-mesh-colors-grassea01_color-array" count="24">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</float_array>
+          <technique_common>
+            <accessor source="#grassea01-mesh-colors-grassea01_color-array" count="6" stride="4">
+              <param name="R" type="float"/>
+              <param name="G" type="float"/>
+              <param name="B" type="float"/>
+              <param name="A" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="grassea01-mesh-vertices">
+          <input semantic="POSITION" source="#grassea01-mesh-positions"/>
+        </vertices>
+        <triangles material="GRASSEA500MTL01-material" count="2">
+          <input semantic="VERTEX" source="#grassea01-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#grassea01-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#grassea01-mesh-map-0" offset="2" set="0"/>
+          <input semantic="TEXCOORD" source="#grassea01-mesh-map-1" offset="2" set="1"/>
+          <input semantic="TEXCOORD" source="#grassea01-mesh-map-2" offset="2" set="2"/>
+          <input semantic="TEXCOORD" source="#grassea01-mesh-map-3" offset="2" set="3"/>
+          <input semantic="COLOR" source="#grassea01-mesh-colors-grassea01_color" offset="3" set="0"/>
+          <p>0 0 0 0 1 0 1 1 2 0 2 2 3 0 3 3 2 0 4 4 1 0 5 5</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="grasslogos" name="grasslogos" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#grasslogos-mesh" name="grasslogos">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="GRASSNASCARCUPMTL01-material" target="#GRASSNASCARCUPMTL01-material">
+                <bind_vertex_input semantic="grasslogos_uv0" input_semantic="TEXCOORD" input_set="0"/>
+                <bind_vertex_input semantic="grasslogos_uv1" input_semantic="TEXCOORD" input_set="1"/>
+                <bind_vertex_input semantic="grasslogos_uv2" input_semantic="TEXCOORD" input_set="2"/>
+                <bind_vertex_input semantic="grasslogos_uv3" input_semantic="TEXCOORD" input_set="3"/>
+              </instance_material>
+              <instance_material symbol="GRASSNASCARCOMMTL01-material" target="#GRASSNASCARCOMMTL01-material">
+                <bind_vertex_input semantic="grasslogos_uv0" input_semantic="TEXCOORD" input_set="0"/>
+                <bind_vertex_input semantic="grasslogos_uv1" input_semantic="TEXCOORD" input_set="1"/>
+                <bind_vertex_input semantic="grasslogos_uv2" input_semantic="TEXCOORD" input_set="2"/>
+                <bind_vertex_input semantic="grasslogos_uv3" input_semantic="TEXCOORD" input_set="3"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="grassea01" name="grassea01" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#grassea01-mesh" name="grassea01">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="GRASSEA500MTL01-material" target="#GRASSEA500MTL01-material">
+                <bind_vertex_input semantic="grassea01_uv0" input_semantic="TEXCOORD" input_set="0"/>
+                <bind_vertex_input semantic="grassea01_uv1" input_semantic="TEXCOORD" input_set="1"/>
+                <bind_vertex_input semantic="grassea01_uv2" input_semantic="TEXCOORD" input_set="2"/>
+                <bind_vertex_input semantic="grassea01_uv3" input_semantic="TEXCOORD" input_set="3"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

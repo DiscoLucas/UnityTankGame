@@ -1,0 +1,17 @@
+{
+  "test-ae3f8ff5-bef8-49f4-aa84-90f0f8d6da0e" : {
+    "internalName" : "test",
+    "class" : "TerrainMaterial",
+    "persistentId" : "ae3f8ff5-bef8-49f4-aa84-90f0f8d6da0e",
+    "Enabled" : "1",
+    "detailBrightness" : "1",
+    "detailDistance" : 500,
+    "detailMap" : "levels/smallgrid/art/terrains/Overlay_Sand-01",
+    "detailSize" : 10,
+    "diffuseMap" : "levels/smallgrid/art/terrains/Overlay_02",
+    "diffuseSize" : 200,
+    "isManaged" : "1",
+    "macroMap" : "levels/smallgrid/grid_10_diff",
+    "macroStrength" : 0.1000000014901161
+  }
+}

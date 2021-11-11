@@ -1,0 +1,3910 @@
+{
+  "APRONC_mat" : {
+    "name" : "APRONC_mat",
+    "mapTo" : "APRONC",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "bed2cd99-1f03-4e7a-870a-c7c19a95f409",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/APRONA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "ATTENDANTBLDGMTL01_mat" : {
+    "name" : "ATTENDANTBLDGMTL01_mat",
+    "mapTo" : "ATTENDANTBLDGMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "72f3df76-5c21-454a-9319-d11edf60555f",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ATTENDANTBLDG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "BACKSTANDSFENCEMTL01_mat" : {
+    "name" : "BACKSTANDSFENCEMTL01_mat",
+    "mapTo" : "BACKSTANDSFENCEMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "83b0a042-1ee1-4dc0-a47d-a07804f52c80",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/BKSTANDFENCE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "BLUEBLDGMTL01_mat" : {
+    "name" : "BLUEBLDGMTL01_mat",
+    "mapTo" : "BLUEBLDGMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "1eeba138-a49b-4cbf-9287-d02c2b7788ce",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/BLUEBLDG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "BUSMTL01_mat" : {
+    "name" : "BUSMTL01_mat",
+    "mapTo" : "BUSMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "729c62d2-53e1-433f-b869-6d60ec70698c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/BUS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CARAWAYBLDGMTL01_mat" : {
+    "name" : "CARAWAYBLDGMTL01_mat",
+    "mapTo" : "CARAWAYBLDGMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "3c7e4a2c-1dda-4fb8-b624-b7f42b3a6f77",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/CARRAWAYBLDG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "CMWLAB_mat" : {
+    "name" : "CMWLAB_mat",
+    "mapTo" : "CMWLAB",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "573b5e88-8c33-4abf-96a4-b5a7fc02098b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/CMWLA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CMWLALIG_mat" : {
+    "name" : "CMWLALIG_mat",
+    "mapTo" : "CMWLALIG",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "ec3a094f-401d-4794-8397-9bb173f6194e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LOGOALIG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CMWLEA_mat" : {
+    "name" : "CMWLEA_mat",
+    "mapTo" : "CMWLEA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "68461cab-971f-44f1-93a7-5b6ca10a19e2",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LOGOEA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CMWLNASC_mat" : {
+    "name" : "CMWLNASC_mat",
+    "mapTo" : "CMWLNASC",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "3d43553b-9bdb-41e0-b2a3-d624c63fe0c7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LOGONASCA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CMWLPEPA_mat" : {
+    "name" : "CMWLPEPA_mat",
+    "mapTo" : "CMWLPEPA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "2d5a3229-0901-400a-a141-8b1da2b17cd0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LOGOPEPA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CMWLRCA_mat" : {
+    "name" : "CMWLRCA_mat",
+    "mapTo" : "CMWLRCA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "38202790-982c-4d17-a8bc-9bf635aed546",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RACECUPA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CMWLTALB_mat" : {
+    "name" : "CMWLTALB_mat",
+    "mapTo" : "CMWLTALB",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "90812eac-806b-44fe-b20a-c4ab75725374",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LOGOTALA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "CMWLTHXA_mat" : {
+    "name" : "CMWLTHXA_mat",
+    "mapTo" : "CMWLTHXA",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "776d24fd-5209-4810-9dda-1d4a216e00d1",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LOGOTHX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "DefaultMaterial" : {
+    "name" : "DefaultMaterial",
+    "mapTo" : "YSTRIPE",
+    "class" : "material",
+    "persistentId" : "deaf901d-42aa-4ac4-8b7f-6f5e377da49b",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/YSTRIPE.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial16" : {
+    "name" : "DefaultMaterial16",
+    "mapTo" : "ROADC",
+    "class" : "material",
+    "persistentId" : "665a6428-6eee-4090-825f-f98ef712d194",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADC.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "DefaultMaterial18" : {
+    "name" : "DefaultMaterial18",
+    "mapTo" : "WLINE",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "5afdafe7-5176-4b68-9c66-1c3b7a0616e2",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/WLINE.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial20" : {
+    "name" : "DefaultMaterial20",
+    "mapTo" : "CMWLPITB",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "9f2629cb-4609-4f8e-9043-351b44ed16ec",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/CMWLPITB.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "DefaultMaterial22" : {
+    "name" : "DefaultMaterial22",
+    "mapTo" : "TAREND",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "46a04a84-6f18-4743-ab5f-f7ac1adbbb78",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/TAREND.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial27" : {
+    "name" : "DefaultMaterial27",
+    "mapTo" : "TAREDGE",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "5c5f146e-9b11-47f4-a28c-714521a38864",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/TAREDGE.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial3" : {
+    "name" : "DefaultMaterial3",
+    "mapTo" : "YSTRIPEND",
+    "class" : "material",
+    "persistentId" : "0827e70d-afbf-4d90-83e8-6bd2e1620905",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/YSTRIPEND.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial30" : {
+    "name" : "DefaultMaterial30",
+    "mapTo" : "HAULER",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "ab3b07ea-2aa3-4fa4-8001-80f3a8f16c83",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/HAULER.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "alphaTest" : true,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "Sub",
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial36" : {
+    "name" : "DefaultMaterial36",
+    "mapTo" : "RUNG",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "53295ef7-263d-496d-a967-b33975ebde20",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/RUNG.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial37" : {
+    "name" : "DefaultMaterial37",
+    "mapTo" : "BUSHA",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "5b3be549-373e-41ad-a5e7-bc27bf488fe6",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/BUSHA.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial39" : {
+    "name" : "DefaultMaterial39",
+    "mapTo" : "SCTOWA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "cdf01fbc-136e-4de1-a4f1-e13c9393b8ff",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/SCTOWA.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "DefaultMaterial4" : {
+    "name" : "DefaultMaterial4",
+    "mapTo" : "NEWBEAMS",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "847323fa-a71d-41ee-a034-08d747212b75",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/NEWBEAMS.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial40" : {
+    "name" : "DefaultMaterial40",
+    "mapTo" : "RUSTA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "d60361c6-c0d5-4f82-8bb1-de0a552da3c3",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/RUSTA.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial42" : {
+    "name" : "DefaultMaterial42",
+    "mapTo" : "FLAGINB",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "2fe53b74-273b-474c-b758-9c2a1b4d68fc",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/FLAGINB.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial43" : {
+    "name" : "DefaultMaterial43",
+    "mapTo" : "FLAGINA",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "3ed9d275-bf29-4d39-8ccb-f3581261b642",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/FLAGINA.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial44" : {
+    "name" : "DefaultMaterial44",
+    "mapTo" : "FLAGINC",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "1f32406b-6b19-487f-b58f-52f9f1bf60d5",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/FLAGINC.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial49" : {
+    "name" : "DefaultMaterial49",
+    "mapTo" : "JUMBOTRUCK05",
+    "class" : "material",
+    "persistentId" : "44d634ea-32e7-4542-8d3e-322345176915",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/JUMBO.gif"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "DefaultMaterial51" : {
+    "name" : "DefaultMaterial51",
+    "mapTo" : "LITPA",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "75d9f365-b8c0-4d5c-b0db-7a104576e291",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/LITPA.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "DefaultMaterial54" : {
+    "name" : "DefaultMaterial54",
+    "mapTo" : "HHTSUP",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "c7f634e8-3853-46ec-b0eb-4f4172327f4d",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/HHTSUP.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "alphaTest" : true,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial57" : {
+    "name" : "DefaultMaterial57",
+    "mapTo" : "FENCEA",
+    "class" : "material",
+    "persistentId" : "6a4b6f54-d651-4f7d-8edd-eaab2c2ba6ea",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/FENCEA.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "DefaultMaterial58" : {
+    "name" : "DefaultMaterial58",
+    "mapTo" : "FENCEA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "c0e897b0-5785-41f2-9657-1c085e2627ef",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/FENCEA.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "DefaultMaterial59" : {
+    "name" : "DefaultMaterial59",
+    "mapTo" : "FENCEC",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "cbf7f5b3-de65-462d-9775-332902104503",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/FENCEC.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "DefaultMaterial60" : {
+    "name" : "DefaultMaterial60",
+    "mapTo" : "FENCEB",
+    "class" : "material",
+    "persistentId" : "c29d572c-0d2d-41bc-bf13-ad96b856c2f8",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/FENCEB.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "DefaultMaterial69" : {
+    "name" : "DefaultMaterial69",
+    "mapTo" : "AMBULANCE",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "c9c2694f-a128-42a0-abeb-c3e6f6a9d52e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/AMBULANCENEW.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "DefaultMaterial7" : {
+    "name" : "DefaultMaterial7",
+    "mapTo" : "TRANSCOLUMN",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "02b538c8-c8d2-4993-a429-710f504380fe",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/easports500/TRANSCOLUMN.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "FENCEBG_mat" : {
+    "name" : "FENCEBG_mat",
+    "mapTo" : "FENCEBG",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "f08a1151-172b-44b8-b216-53a3a13f7a36",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/FENCEB.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "GASSTATIONMTL01_mat" : {
+    "name" : "GASSTATIONMTL01_mat",
+    "mapTo" : "GASSTATIONMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "5ccb6768-3210-42b3-99e1-9fe509727452",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GASTATION.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "GENERALBLDGMTL01_mat" : {
+    "name" : "GENERALBLDGMTL01_mat",
+    "mapTo" : "GENERALBLDGMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "4d5db26d-7d99-47f8-81ad-5bab01ab5290",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GENRALBLDG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "GRASSA_mat" : {
+    "name" : "GRASSA_mat",
+    "mapTo" : "GRASSA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "f6389056-1645-49ae-9d80-90068ff01c05",
+    "Stages" : [
+      {
+        "detailMap" : "levels/EASPORTS500/Grass_d.dds",
+        "detailNormalMap" : "levels/EASPORTS500/Grass_n.dds",
+        "detailScale" : [ 50, 50 ],
+        "diffuseColor" : [ 0.3490196168422699, 0.4431372880935669, 0.3450980484485626, 1 ],
+        "sequenceSegmentSize" : -4.656610097519831e-10
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "GRASS",
+    "defaultDepth" : 0.15, //MUD
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "showDust" : true
+  },
+  "GRASSEA500MTL01_mat" : {
+    "name" : "GRASSEA500MTL01_mat",
+    "mapTo" : "GRASSEA500MTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "12c0c592-075d-430c-9438-22eba4ae0f95",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GRASSEA500.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "DIRT",
+    "alphaRef" : 0,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "showDust" : true,
+    "translucent" : true
+  },
+  "GRASSNASCARCOMMTL01_mat" : {
+    "name" : "GRASSNASCARCOMMTL01_mat",
+    "mapTo" : "GRASSNASCARCOMMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "a7482610-9d12-4823-aa23-2694e31f021c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GRASSNASCARCOM.DDS",
+        "specularPower" : 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "DIRT",
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "showDust" : true,
+    "translucent" : true
+  },
+  "GRASSNASCARCUPMTL01_mat" : {
+    "name" : "GRASSNASCARCUPMTL01_mat",
+    "mapTo" : "GRASSNASCARCUPMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "25513b6a-18bd-4865-9489-d8af7f38d137",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GRASSNASCARCUP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "DIRT",
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "showDust" : true,
+    "translucent" : true
+  },
+  "GRDRTRANS_mat" : {
+    "name" : "GRDRTRANS_mat",
+    "mapTo" : "GRDRTRANS",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "c9a85703-d0d1-43ab-86f3-12014370339b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/TRANS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "alphaTest" : true,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true,
+    "translucentBlendOp" : "Sub"
+  },
+  "GRN_GLOW_mat" : {
+    "name" : "GRN_GLOW_mat",
+    "mapTo" : "GRN_GLOW",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "babe5c7f-8036-493f-b6c8-b3fc71351970",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GRN_GLOW.DDS",
+        "emissive" : true,
+        "glow" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "GSCHECKA_mat" : {
+    "name" : "GSCHECKA_mat",
+    "mapTo" : "GSCHECKA",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "37e56f17-fb9e-4236-83f4-030737841a9c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GSCHECK.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "GSCHECKB_mat" : {
+    "name" : "GSCHECKB_mat",
+    "mapTo" : "GSCHECKB",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "83210a16-353a-491c-bc8e-3742e48ebd16",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GSCHECK.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "GSSTRIPA_mat" : {
+    "name" : "GSSTRIPA_mat",
+    "mapTo" : "GSSTRIPA",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "a51514e5-e46c-4953-a1d2-814a203c1a71",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GSSTRIPEA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "HELI_mat" : {
+    "name" : "HELI_mat",
+    "mapTo" : "HELI",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "eb4832cc-d2ac-499f-b435-59b033ff2c02",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/HELICOPTER.DDS",
+        "sequenceFramePerSec" : 1,
+        "sequenceSegmentSize" : 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "HHTRAIL_mat" : {
+    "name" : "HHTRAIL_mat",
+    "mapTo" : "HHTRAIL",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "46888c72-f46f-4b34-871c-b3242cb9abe0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/JUMBOTRUCK02.BMP"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "INFIELDROADMTL_FLOAT01_mat" : {
+    "name" : "INFIELDROADMTL_FLOAT01_mat",
+    "mapTo" : "INFIELDROADMTL_FLOAT01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "12d4f29f-d59a-4e78-85a2-197b500de613",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/INFIELDASPHLT.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "INFIELD_RUNWAYMTL01_mat" : {
+    "name" : "INFIELD_RUNWAYMTL01_mat",
+    "mapTo" : "INFIELD_RUNWAYMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "94487e20-7705-42d9-bd8c-158efc1a0cc2",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/INFIELDRUNWAY.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "LIGHTPOLE2MTL01_mat" : {
+    "name" : "LIGHTPOLE2MTL01_mat",
+    "mapTo" : "LIGHTPOLE2MTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "bf998993-3276-4adb-9ba5-aa09b78e5351",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LIGHTPOLE2.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "MAINGARAGEMTL01_mat" : {
+    "name" : "MAINGARAGEMTL01_mat",
+    "mapTo" : "MAINGARAGEMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "712a0430-6e8d-4f21-9b60-4d07323f07b5",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/MAINGARAGE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "MATERIAL_#10_mat" : {
+    "name" : "MATERIAL_#10_mat",
+    "mapTo" : "MATERIAL_#10",
+    "class" : "Material",
+    "persistentId" : "8bc8f34d-845f-4df6-8d4b-f2070557a5ae",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/EASPIN.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "MATERIAL_#1_mat" : {
+    "name" : "MATERIAL_#1_mat",
+    "mapTo" : "MATERIAL_#1",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "a0bb08e5-d8e3-435c-b274-eb047ebcd136",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/GDYRBLIMP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "MATERIAL_#25871_mat" : {
+    "name" : "MATERIAL_#25871_mat",
+    "mapTo" : "MATERIAL_#25871",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "9ee9f957-bac8-4906-a8cc-331aa4d234c4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/CROWDAA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "alphaTest" : true,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "Sub",
+    "translucentZWrite" : true
+  },
+  "MEDIABLDGMTL01_mat" : {
+    "name" : "MEDIABLDGMTL01_mat",
+    "mapTo" : "MEDIABLDGMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "77c0c56a-8860-494e-ad86-829fc24853f0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/MEDIABLDG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "NEWBEAM_mat" : {
+    "name" : "NEWBEAM_mat",
+    "mapTo" : "NEWBEAM",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "b7663275-945c-46ab-82e5-22b1018767f8",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/NEWBEAMS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "OFFICEBLDGMTL01_mat" : {
+    "name" : "OFFICEBLDGMTL01_mat",
+    "mapTo" : "OFFICEBLDGMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "6e296fc5-08fb-4fd2-8f86-40cffbe7511c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/OFFICE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "OUTFIELD_BLDGSMTL_ALPHA01_mat" : {
+    "name" : "OUTFIELD_BLDGSMTL_ALPHA01_mat",
+    "mapTo" : "OUTFIELD_BLDGSMTL_ALPHA01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "f14909f7-f55c-44c0-9565-e2b5f7d46889",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ENV05.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "OUTFIELD_ENVTREESMTL01_mat" : {
+    "name" : "OUTFIELD_ENVTREESMTL01_mat",
+    "mapTo" : "OUTFIELD_ENVTREESMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "300bcb87-4aaa-437c-a93b-1553a8e66e03",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ENV01.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "OUTFIELD_GROUNDPLANEMTL01_001_mat" : {
+    "name" : "OUTFIELD_GROUNDPLANEMTL01_001_mat",
+    "mapTo" : "OUTFIELD_GROUNDPLANEMTL01.001",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "0481b474-2a0f-45c2-a89b-18c569fb4831",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/INFIELDGRASS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "OUTFIELD_GROUNDPLANEMTL01_mat" : {
+    "name" : "OUTFIELD_GROUNDPLANEMTL01_mat",
+    "mapTo" : "OUTFIELD_GROUNDPLANEMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "f74c35f4-9f4a-4339-9c14-cc35f012894e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/INFIELDGRASS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "OVALEDGEW_mat" : {
+    "name" : "OVALEDGEW_mat",
+    "mapTo" : "OVALEDGEW",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "fa20576e-56d7-4323-a69d-2d824e135117",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/OVALEDGE_WHITE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "PBOX01_mat" : {
+    "name" : "PBOX01_mat",
+    "mapTo" : "PBOX01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "8dfeef53-ccc6-4345-9852-f0d014e6cf49",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX02_mat" : {
+    "name" : "PBOX02_mat",
+    "mapTo" : "PBOX02",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "a74c49cd-8e4b-492d-8fdc-9cb5498d4d81",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX03_mat" : {
+    "name" : "PBOX03_mat",
+    "mapTo" : "PBOX03",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "bb980603-54a8-405e-ba14-2170c4cb50fb",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX04_mat" : {
+    "name" : "PBOX04_mat",
+    "mapTo" : "PBOX04",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "5805f8fa-108b-431d-ad01-68793ae444f4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX05_mat" : {
+    "name" : "PBOX05_mat",
+    "mapTo" : "PBOX05",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "8a3d3aac-399d-4164-a29f-ab17b10a394c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX06_mat" : {
+    "name" : "PBOX06_mat",
+    "mapTo" : "PBOX06",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "139929eb-e50a-4a9e-998e-bce00b3ea833",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX07_mat" : {
+    "name" : "PBOX07_mat",
+    "mapTo" : "PBOX07",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "248a6c06-d0d3-4d36-9b41-2b380100d5d4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX08_mat" : {
+    "name" : "PBOX08_mat",
+    "mapTo" : "PBOX08",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "dbca8ed4-4795-4470-9e80-79592b2904d2",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX09_mat" : {
+    "name" : "PBOX09_mat",
+    "mapTo" : "PBOX09",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "5fe9d2e4-03f9-4159-9837-44a0e9ac796e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX10_mat" : {
+    "name" : "PBOX10_mat",
+    "mapTo" : "PBOX10",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "3f6bbba7-5887-4fb8-b0bc-9f3f594dcb87",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX11_mat" : {
+    "name" : "PBOX11_mat",
+    "mapTo" : "PBOX11",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "0055a9fe-c2ab-41f1-b7fe-ae6642ed154b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX12_mat" : {
+    "name" : "PBOX12_mat",
+    "mapTo" : "PBOX12",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "9ffd37e8-c588-4f89-af7b-218601ee84e8",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX13_mat" : {
+    "name" : "PBOX13_mat",
+    "mapTo" : "PBOX13",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "6a995dc1-efa3-4d4f-9265-e088aa3036b3",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX14_mat" : {
+    "name" : "PBOX14_mat",
+    "mapTo" : "PBOX14",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "e2cd6985-20f1-43a7-ae58-cfe5ac169db5",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX15_mat" : {
+    "name" : "PBOX15_mat",
+    "mapTo" : "PBOX15",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "6a63bc9d-51a8-484a-95be-9d466dad700c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX16_mat" : {
+    "name" : "PBOX16_mat",
+    "mapTo" : "PBOX16",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "a9fd1705-0abd-4717-bfbe-fd41756ebf18",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX17_mat" : {
+    "name" : "PBOX17_mat",
+    "mapTo" : "PBOX17",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "da7aaea1-3333-4c1b-8b5d-3f005d92cf30",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX18_mat" : {
+    "name" : "PBOX18_mat",
+    "mapTo" : "PBOX18",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "ee9fd30f-b5ea-473c-a26b-ef57fed5d22d",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX19_mat" : {
+    "name" : "PBOX19_mat",
+    "mapTo" : "PBOX19",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "d5f49821-655b-483b-9529-d5fc765caab0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX20_mat" : {
+    "name" : "PBOX20_mat",
+    "mapTo" : "PBOX20",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "299aa650-151b-4334-a5ba-b1ea083d78c2",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX21_mat" : {
+    "name" : "PBOX21_mat",
+    "mapTo" : "PBOX21",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "46549c53-15d4-4435-9b53-e0e3ea4150c2",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX22_mat" : {
+    "name" : "PBOX22_mat",
+    "mapTo" : "PBOX22",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "4452dd73-6496-42cd-928c-ab695d65e20e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX23_mat" : {
+    "name" : "PBOX23_mat",
+    "mapTo" : "PBOX23",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "1ae8c8cb-f3a4-4f76-b73d-ded140fdb30c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX24_mat" : {
+    "name" : "PBOX24_mat",
+    "mapTo" : "PBOX24",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "9f0cd924-6588-43e0-9701-f89ac133380a",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX25_mat" : {
+    "name" : "PBOX25_mat",
+    "mapTo" : "PBOX25",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "706ca798-3107-4222-9334-c5f5112e85e5",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX26_mat" : {
+    "name" : "PBOX26_mat",
+    "mapTo" : "PBOX26",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "59641b1f-9dd9-441f-a085-0079f9e83946",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX27_mat" : {
+    "name" : "PBOX27_mat",
+    "mapTo" : "PBOX27",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "11869fed-28b2-4cb2-8aad-23a044103e38",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX28_mat" : {
+    "name" : "PBOX28_mat",
+    "mapTo" : "PBOX28",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "66f189c8-6c41-461f-ac75-65850914be66",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX29_mat" : {
+    "name" : "PBOX29_mat",
+    "mapTo" : "PBOX29",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "625dc255-5c64-4c28-b73e-b9bfba4e4377",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX30_mat" : {
+    "name" : "PBOX30_mat",
+    "mapTo" : "PBOX30",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "1d49a634-731e-4ffa-8e83-31198e0dc2da",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX31_mat" : {
+    "name" : "PBOX31_mat",
+    "mapTo" : "PBOX31",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "de0ea715-9fc2-491c-92be-32f79edff152",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX32_mat" : {
+    "name" : "PBOX32_mat",
+    "mapTo" : "PBOX32",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "064770cc-c681-4fb0-90b8-6df1d6af5c92",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX33_mat" : {
+    "name" : "PBOX33_mat",
+    "mapTo" : "PBOX33",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "e0f7e13e-9f58-41a3-a305-aae58cc53227",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX34_mat" : {
+    "name" : "PBOX34_mat",
+    "mapTo" : "PBOX34",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "1b5ca749-714d-4dd7-bd9c-767f9ecbbb3a",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX35_mat" : {
+    "name" : "PBOX35_mat",
+    "mapTo" : "PBOX35",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "c4d291e4-86f0-404d-a788-07644a9e1eb2",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX36_mat" : {
+    "name" : "PBOX36_mat",
+    "mapTo" : "PBOX36",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "cc4b4510-45f3-4bcf-9ade-4351b66d4b16",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX37_mat" : {
+    "name" : "PBOX37_mat",
+    "mapTo" : "PBOX37",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "e4b4f06d-d18b-4eac-bae0-19f618a39086",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX38_mat" : {
+    "name" : "PBOX38_mat",
+    "mapTo" : "PBOX38",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "2770ce7c-ba01-44af-9cd3-723777d0035f",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX39_mat" : {
+    "name" : "PBOX39_mat",
+    "mapTo" : "PBOX39",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "258d7ea1-74cf-4400-9db9-279c12169a67",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX40_mat" : {
+    "name" : "PBOX40_mat",
+    "mapTo" : "PBOX40",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "d52a8049-6021-420c-a28f-e7cce48c070d",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX41_mat" : {
+    "name" : "PBOX41_mat",
+    "mapTo" : "PBOX41",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "ef54e22d-c49e-4782-bf89-e783e246997d",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX42_mat" : {
+    "name" : "PBOX42_mat",
+    "mapTo" : "PBOX42",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "78b76aa5-62cf-4286-b31f-95b5b662d045",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PBOX43_mat" : {
+    "name" : "PBOX43_mat",
+    "mapTo" : "PBOX43",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "a9809b2c-4dc9-4c25-9ad6-d59a9ede5933",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "PICKUP_MAP_mat" : {
+    "name" : "PICKUP_MAP_mat",
+    "mapTo" : "PICKUP_MAP",
+    "class" : "material",
+    "persistentId" : "f9fd99fd-daab-4a74-8061-993a82c70018",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PICKUP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PITBOX01" : {
+    "name" : "PITBOX01",
+    "class" : "TSStatic",
+    "persistentId" : "4738b373-25b5-478f-a686-afa2bf3b5ddf",
+    "position" : [ -186.9303283691406, 350.296875, 14.07829093933105 ],
+    "diffuseMap0" : "levels/EASPORTS500/pit_box.tga",
+    "doubleSided" : "1",
+    "dynamicCubemap" : "0",
+    "isRenderEnabled" : false,
+    "materialTag0" : "Miscellaneous",
+    "planarReflection" : "0",
+    "shapeName" : "/levels/easports500/pitbox01.dae",
+    "showDust" : "0",
+    "translucent" : "0",
+    "translucentBlendOp" : "LerpAlpha",
+    "useAnisotropic0" : "0"
+  },
+  "PITBOX01_mat" : {
+    "name" : "PITBOX01_mat",
+    "mapTo" : "PITBOX01",
+    "class" : "Material",
+    "persistentId" : "12932f68-5686-43e8-b0d4-e5355ba57606",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/pit_box.dds"
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "PITBOXES1_PITBOXESMTL01_mat" : {
+    "name" : "PITBOXES1_PITBOXESMTL01_mat",
+    "mapTo" : "PITBOXES1_PITBOXESMTL01",
+    "class" : "Material",
+    "persistentId" : "8b49ce46-5e61-464d-9e31-9c2a6a1c04ea",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PITBOXES.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "PITPOLES_mat" : {
+    "name" : "PITPOLES_mat",
+    "mapTo" : "PITPOLES",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "d6f4d662-b8a8-4825-bf80-7b0f7524ac14",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PITPOLE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "PLPOP01_mat" : {
+    "name" : "PLPOP01_mat",
+    "mapTo" : "PLPOP01",
+    "class" : "material",
+    "persistentId" : "251a1b8e-19bd-4604-b00c-1ef5b622afe3",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP02_mat" : {
+    "name" : "PLPOP02_mat",
+    "mapTo" : "PLPOP02",
+    "class" : "material",
+    "persistentId" : "999fb32a-812a-47f0-af7f-76348235c1f5",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP03_mat" : {
+    "name" : "PLPOP03_mat",
+    "mapTo" : "PLPOP03",
+    "class" : "material",
+    "persistentId" : "ed256565-acc6-4762-9477-d2af97fd3a4c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP04_mat" : {
+    "name" : "PLPOP04_mat",
+    "mapTo" : "PLPOP04",
+    "class" : "material",
+    "persistentId" : "548a9a3c-78e5-48db-b0bc-b3c334ff2f70",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP05_mat" : {
+    "name" : "PLPOP05_mat",
+    "mapTo" : "PLPOP05",
+    "class" : "material",
+    "persistentId" : "e0944ace-b853-4650-b7d5-f4f469948a3e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP06_mat" : {
+    "name" : "PLPOP06_mat",
+    "mapTo" : "PLPOP06",
+    "class" : "material",
+    "persistentId" : "977b854b-61f9-420f-9d2d-214f9467bf49",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP07_mat" : {
+    "name" : "PLPOP07_mat",
+    "mapTo" : "PLPOP07",
+    "class" : "material",
+    "persistentId" : "cde91e68-85e2-4e6b-8095-81dd26732453",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP08_mat" : {
+    "name" : "PLPOP08_mat",
+    "mapTo" : "PLPOP08",
+    "class" : "material",
+    "persistentId" : "d41e7619-11e1-4860-8f40-5dc3d61ce749",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP09_mat" : {
+    "name" : "PLPOP09_mat",
+    "mapTo" : "PLPOP09",
+    "class" : "material",
+    "persistentId" : "2f9d4a52-2dc5-467a-8b5d-4f266db2b9cc",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP10_mat" : {
+    "name" : "PLPOP10_mat",
+    "mapTo" : "PLPOP10",
+    "class" : "material",
+    "persistentId" : "d884f092-4949-498a-b837-b82b6e5b8a98",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP11_mat" : {
+    "name" : "PLPOP11_mat",
+    "mapTo" : "PLPOP11",
+    "class" : "material",
+    "persistentId" : "71f5c372-9703-48a5-9656-cfd73d18b6c5",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP12_mat" : {
+    "name" : "PLPOP12_mat",
+    "mapTo" : "PLPOP12",
+    "class" : "material",
+    "persistentId" : "6dde6a00-ac13-4a58-ac8c-2fc7190d9227",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP13_mat" : {
+    "name" : "PLPOP13_mat",
+    "mapTo" : "PLPOP13",
+    "class" : "material",
+    "persistentId" : "053159a7-29ff-40aa-bc71-8a6d8e81507f",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP14_mat" : {
+    "name" : "PLPOP14_mat",
+    "mapTo" : "PLPOP14",
+    "class" : "material",
+    "persistentId" : "58e7bee7-106d-4bc1-bfa0-021176c7f6e7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP15_mat" : {
+    "name" : "PLPOP15_mat",
+    "mapTo" : "PLPOP15",
+    "class" : "material",
+    "persistentId" : "8f5961e9-4f6c-45ae-82c2-238fb4a5494b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP16_mat" : {
+    "name" : "PLPOP16_mat",
+    "mapTo" : "PLPOP16",
+    "class" : "material",
+    "persistentId" : "2cc474a1-912d-4a38-a9cc-ec2ac5cf7eaf",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP17_mat" : {
+    "name" : "PLPOP17_mat",
+    "mapTo" : "PLPOP17",
+    "class" : "material",
+    "persistentId" : "1dad7ac8-a87c-4e87-97b8-137184cd0bb7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP18_mat" : {
+    "name" : "PLPOP18_mat",
+    "mapTo" : "PLPOP18",
+    "class" : "material",
+    "persistentId" : "ae135db0-24b3-4959-b7c0-195048c0e534",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP19_mat" : {
+    "name" : "PLPOP19_mat",
+    "mapTo" : "PLPOP19",
+    "class" : "material",
+    "persistentId" : "979d56d9-d8e5-4d0c-a1cf-6a943766a07c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP20_mat" : {
+    "name" : "PLPOP20_mat",
+    "mapTo" : "PLPOP20",
+    "class" : "material",
+    "persistentId" : "fb47355d-de3c-4957-9910-6ab125595ac6",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP21_mat" : {
+    "name" : "PLPOP21_mat",
+    "mapTo" : "PLPOP21",
+    "class" : "material",
+    "persistentId" : "092816a2-f0f6-4ed6-b155-7c9ac0f8e116",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP22_mat" : {
+    "name" : "PLPOP22_mat",
+    "mapTo" : "PLPOP22",
+    "class" : "material",
+    "persistentId" : "faaaa35a-f141-43e1-ad9a-0f3bf0377fa1",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP23_mat" : {
+    "name" : "PLPOP23_mat",
+    "mapTo" : "PLPOP23",
+    "class" : "material",
+    "persistentId" : "c412603a-7b7a-46dd-ba61-ddd3d714dd7e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP24_mat" : {
+    "name" : "PLPOP24_mat",
+    "mapTo" : "PLPOP24",
+    "class" : "material",
+    "persistentId" : "5c86f1fa-04c1-4059-9c50-84b80e22bc55",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP25_mat" : {
+    "name" : "PLPOP25_mat",
+    "mapTo" : "PLPOP25",
+    "class" : "material",
+    "persistentId" : "0c7a393b-de11-4eb5-bf28-d66f736c19c7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP26_mat" : {
+    "name" : "PLPOP26_mat",
+    "mapTo" : "PLPOP26",
+    "class" : "material",
+    "persistentId" : "d09ab146-e84f-4674-8f86-3499989c9ad4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP27_mat" : {
+    "name" : "PLPOP27_mat",
+    "mapTo" : "PLPOP27",
+    "class" : "material",
+    "persistentId" : "4e43f0be-0915-49f7-a5ab-ded6fbda062e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP28_mat" : {
+    "name" : "PLPOP28_mat",
+    "mapTo" : "PLPOP28",
+    "class" : "material",
+    "persistentId" : "6ec9590c-9bf9-4a11-93bd-17b89c78ac2e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP29_mat" : {
+    "name" : "PLPOP29_mat",
+    "mapTo" : "PLPOP29",
+    "class" : "material",
+    "persistentId" : "a29137a8-9401-47e1-b51e-5455b267e4a0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP30_mat" : {
+    "name" : "PLPOP30_mat",
+    "mapTo" : "PLPOP30",
+    "class" : "material",
+    "persistentId" : "1d15664e-393b-4a5b-ad90-cf5b70ed0e0c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP31_mat" : {
+    "name" : "PLPOP31_mat",
+    "mapTo" : "PLPOP31",
+    "class" : "material",
+    "persistentId" : "d14c6758-bc5a-4772-a510-4c190c812c63",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP32_mat" : {
+    "name" : "PLPOP32_mat",
+    "mapTo" : "PLPOP32",
+    "class" : "material",
+    "persistentId" : "4df418ba-46f7-4780-86d0-886d5fe07fc4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP33_mat" : {
+    "name" : "PLPOP33_mat",
+    "mapTo" : "PLPOP33",
+    "class" : "material",
+    "persistentId" : "1e4576ad-f676-4c56-8f7f-af10c8db6450",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP34_mat" : {
+    "name" : "PLPOP34_mat",
+    "mapTo" : "PLPOP34",
+    "class" : "material",
+    "persistentId" : "bd216e4a-4ec2-486f-a818-bbc87e131311",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP35_mat" : {
+    "name" : "PLPOP35_mat",
+    "mapTo" : "PLPOP35",
+    "class" : "material",
+    "persistentId" : "3429798a-6f78-4e2e-b76c-b57f7762b640",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP36_mat" : {
+    "name" : "PLPOP36_mat",
+    "mapTo" : "PLPOP36",
+    "class" : "material",
+    "persistentId" : "f0a5b40a-6de4-4228-bb79-f46598dea042",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP37_mat" : {
+    "name" : "PLPOP37_mat",
+    "mapTo" : "PLPOP37",
+    "class" : "material",
+    "persistentId" : "d0e31928-4018-4bdd-acb9-195ebb8c90af",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP38_mat" : {
+    "name" : "PLPOP38_mat",
+    "mapTo" : "PLPOP38",
+    "class" : "material",
+    "persistentId" : "e8982c54-6939-42a5-9945-b04439c62224",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP39_mat" : {
+    "name" : "PLPOP39_mat",
+    "mapTo" : "PLPOP39",
+    "class" : "material",
+    "persistentId" : "54b1b700-e2e2-4723-b6d0-bfc390fe8e42",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP40_mat" : {
+    "name" : "PLPOP40_mat",
+    "mapTo" : "PLPOP40",
+    "class" : "material",
+    "persistentId" : "daa816ea-6154-4fe8-b3e4-09a501a59706",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP41_mat" : {
+    "name" : "PLPOP41_mat",
+    "mapTo" : "PLPOP41",
+    "class" : "material",
+    "persistentId" : "f8e44f3e-a6d0-40bf-a453-294c2436940c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP42_mat" : {
+    "name" : "PLPOP42_mat",
+    "mapTo" : "PLPOP42",
+    "class" : "material",
+    "persistentId" : "7a315bd3-28d9-4fa1-b6c9-70aa4e6b007f",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PLPOP43_mat" : {
+    "name" : "PLPOP43_mat",
+    "mapTo" : "PLPOP43",
+    "class" : "material",
+    "persistentId" : "3f9fbd29-4f68-49f6-8eac-314273fba66b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PLPOP.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "PitBox01" : {
+    "name" : "PitBox01",
+    "class" : "TSStatic",
+    "persistentId" : "4738b373-25b5-478f-a686-afa2bf3b5ddf",
+    "position" : [ -186.9303283691406, 340.6964111328125, 14.07829093933105 ],
+    "collisionType" : "Visible Mesh Final",
+    "decalType" : "Visible Mesh Final",
+    "diffuseMap0" : "levels/EASPORTS500/pit_box.dds",
+    "doubleSided" : "1",
+    "dynamicCubemap" : "0",
+    "isRenderEnabled" : false,
+    "materialTag0" : "Miscellaneous",
+    "planarReflection" : "0",
+    "prebuildCollisionData" : true,
+    "shapeName" : "/levels/easports500/pitbox01.dae",
+    "showDust" : "0",
+    "skin" : "D:\\Users\\Bobby\\Documents\\BeamNG.drive\\mods\\unpacked\\EASPORTS500\\levels\\EASPORTS500\\pit_box.dds",
+    "translucent" : "0",
+    "translucentBlendOp" : "LerpAlpha",
+    "useAnisotropic0" : "0"
+  },
+  "RAILA_mat" : {
+    "name" : "RAILA_mat",
+    "mapTo" : "RAILA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "479049c7-6e01-4525-9a9f-1785f0e9e8ff",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/NEWRAIL.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "RED_GLOW_mat" : {
+    "name" : "RED_GLOW_mat",
+    "mapTo" : "RED_GLOW",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "f99b8d53-23a9-4ca8-b31b-00f064be3d57",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RED_GLOW.DDS",
+        "emissive" : true,
+        "glow" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "REFRESHMENTBLDGMTL01_mat" : {
+    "name" : "REFRESHMENTBLDGMTL01_mat",
+    "mapTo" : "REFRESHMENTBLDGMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "20d462b7-3c28-402b-96be-d5dbd9033514",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/REFRSHBLDG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "RESTROOM01MTL01_mat" : {
+    "name" : "RESTROOM01MTL01_mat",
+    "mapTo" : "RESTROOM01MTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "e1ae63d8-3872-4a20-8ec1-d3ee31f96eea",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RESTROOM.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "RV01BOXMTL01_mat" : {
+    "name" : "RV01BOXMTL01_mat",
+    "mapTo" : "RV01BOXMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "e46c4558-4f61-48a0-94ae-350ffe26612b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RVBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "RV01MTL01_mat" : {
+    "name" : "RV01MTL01_mat",
+    "mapTo" : "RV01MTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "f753c6c5-a346-4352-a2e4-dec33bcf6396",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RVA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "RVBOXES_mat" : {
+    "name" : "RVBOXES_mat",
+    "mapTo" : "RVBOXES",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "9090a00d-10ed-472b-abfc-5af2ac3c63d8",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RVBOXA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "RV_VAN_LAMBERT01_mat" : {
+    "name" : "RV_VAN_LAMBERT01_mat",
+    "mapTo" : "RV_VAN_LAMBERT01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "e1eb5bde-81c5-401c-8e4b-9d630b997667",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RVB.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "alphaTest" : true,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "Sub",
+    "translucentZWrite" : true
+  },
+  "SEATINGMTL01_mat" : {
+    "name" : "SEATINGMTL01_mat",
+    "mapTo" : "SEATINGMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "718a7d70-943e-4124-aed3-67f9e230bfc8",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSSEATING.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "alphaTest" : true,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "SMALLGARAGEMTL01_mat" : {
+    "name" : "SMALLGARAGEMTL01_mat",
+    "mapTo" : "SMALLGARAGEMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "18d05203-15c1-4a16-8bca-67192b617a49",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/SMALLGARAGE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "STANDINGQUADCROWDCMTL01_mat" : {
+    "name" : "STANDINGQUADCROWDCMTL01_mat",
+    "mapTo" : "STANDINGQUADCROWDCMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "d7d99738-9d85-42c6-9cc5-3ab16aeadddf",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDING_CROWDQUAD.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "alphaTest" : true,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true,
+    "translucentBlendOp" : "Sub",
+    "translucentZWrite" : true
+  },
+  "STANDSQUADCROWDTILEMTL01_mat" : {
+    "name" : "STANDSQUADCROWDTILEMTL01_mat",
+    "mapTo" : "STANDSQUADCROWDTILEMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "17ed5205-47e7-4c8b-8430-9d3edeb06a46",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/TALLCROWDTILE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "STANDS_BOXSUITEMTL_RMAP01_mat" : {
+    "name" : "STANDS_BOXSUITEMTL_RMAP01_mat",
+    "mapTo" : "STANDS_BOXSUITEMTL_RMAP01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "44a8d497-d59a-4279-ad66-91eede2eed09",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PRESSBOX.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous"
+  },
+  "STANDS_CNCRSEBEAMSMTL01_mat" : {
+    "name" : "STANDS_CNCRSEBEAMSMTL01_mat",
+    "mapTo" : "STANDS_CNCRSEBEAMSMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "1d6768c4-1b26-4b41-8083-5186339012c7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSBEAMS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "STANDS_CONCRETEMTL01_mat" : {
+    "name" : "STANDS_CONCRETEMTL01_mat",
+    "mapTo" : "STANDS_CONCRETEMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "fdeeea90-51e4-489f-b592-df27d7697667",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/SMLCONC.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "STANDS_FRONTPILLARSMTL01_mat" : {
+    "name" : "STANDS_FRONTPILLARSMTL01_mat",
+    "mapTo" : "STANDS_FRONTPILLARSMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "27c1b863-bf75-4e06-b7b0-09bbabc5da71",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/CNCRSPILRS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "STANDS_FRONTWALLMTL01_mat" : {
+    "name" : "STANDS_FRONTWALLMTL01_mat",
+    "mapTo" : "STANDS_FRONTWALLMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "e937b12c-bafa-46ee-8598-6f0fb357c472",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSWALL.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "STANDS_OVERHANGMTL01_mat" : {
+    "name" : "STANDS_OVERHANGMTL01_mat",
+    "mapTo" : "STANDS_OVERHANGMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "37c7e26e-a420-432e-a035-b8d38510f718",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSOVRHNG.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "STANDS_PILLAR_mat" : {
+    "name" : "STANDS_PILLAR_mat",
+    "mapTo" : "STANDS_PILLAR",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "1432325e-2873-417f-b749-bfd3e51284be",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSBEAMS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "STANDS_PRESSBOXMTL_RMAP01_mat" : {
+    "name" : "STANDS_PRESSBOXMTL_RMAP01_mat",
+    "mapTo" : "STANDS_PRESSBOXMTL_RMAP01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "81019a23-ccdf-489f-ba13-f6de07b5aaa4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PRESSBOX2.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "STANDS_RAILMTL01_mat" : {
+    "name" : "STANDS_RAILMTL01_mat",
+    "mapTo" : "STANDS_RAILMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "58233cb9-6199-441a-9c4e-5c17265606dd",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSRAIL.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "STANDS_STAIRSMTL01_mat" : {
+    "name" : "STANDS_STAIRSMTL01_mat",
+    "mapTo" : "STANDS_STAIRSMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "bbc97de0-ed88-41a7-8d70-fc8409714fa0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSSTAIRS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "STANDS_STANDSFENCEMTL01_mat" : {
+    "name" : "STANDS_STANDSFENCEMTL01_mat",
+    "mapTo" : "STANDS_STANDSFENCEMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "97bed5cc-4a29-431f-9ad9-8bbbbf7ec11c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/STANDSFENCE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "STREETLAMPMTL01_mat" : {
+    "name" : "STREETLAMPMTL01_mat",
+    "mapTo" : "STREETLAMPMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "a60bedd7-3b73-4fae-9acc-88a2cf20cd8b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/LIGHTPOLE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+    "translucent" : true
+  },
+  "TENTMTL01_mat" : {
+    "name" : "TENTMTL01_mat",
+    "mapTo" : "TENTMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "0288f642-3e29-41fa-8a8c-82648860b1e2",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/TENTS.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "TRACKTOWERMTL01_mat" : {
+    "name" : "TRACKTOWERMTL01_mat",
+    "mapTo" : "TRACKTOWERMTL01",
+    "internalName" : "Grid",
+    "class" : "Material",
+    "persistentId" : "a028018e-8b30-4ca9-a651-af8cd3ac1b39",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/TIMINGTWR.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "VAN_MAP_mat" : {
+    "name" : "VAN_MAP_mat",
+    "mapTo" : "VAN_MAP",
+    "class" : "material",
+    "persistentId" : "0e6cede1-c01a-4de9-a7ef-7743802235bf",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/VAN.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "VICTORYLANEMTL01_mat" : {
+    "name" : "VICTORYLANEMTL01_mat",
+    "mapTo" : "VICTORYLANEMTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "8d4cd400-f966-4b3a-982b-b3b47d354d4f",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/VICTRYLANE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous"
+  },
+  "WHEELS_mat" : {
+    "name" : "WHEELS_mat",
+    "mapTo" : "WHEELS",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "c94bc328-2738-4e08-a027-e03c2ea5987c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/JUMBOTRUCK01.BMP"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 255,
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "invertBackFaceNormals" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "YELLOW_GLOW_mat" : {
+    "name" : "YELLOW_GLOW_mat",
+    "mapTo" : "YELLOW_GLOW",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "227f0d28-e452-4e6e-9e92-9e689e338fd4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/YELLOW_GLOW.DDS",
+        "emissive" : true,
+        "glow" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "translucent" : true
+  },
+  "_PICKUP_PICKUPMTL01_mat" : {
+    "name" : "_PICKUP_PICKUPMTL01_mat",
+    "mapTo" : "_PICKUP_PICKUPMTL01",
+    "class" : "material",
+    "persistentId" : "2231290b-2dfc-4188-a8f9-aefd1f224977",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/PICKUPB.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "Miscellaneous"
+  },
+  "_RV01_RV01MTL01_mat" : {
+    "name" : "_RV01_RV01MTL01_mat",
+    "mapTo" : "_RV01_RV01MTL01",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "e2a92081-218b-44bd-afce-aa6743825d25",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/RVA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle"
+  },
+  "APRONC_mat" : {
+    "name" : "APRONC_mat",
+    "mapTo" : "APRONC",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "bed2cd99-1f03-4e7a-870a-c7c19a95f409",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/APRONA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial10" : {
+    "name" : "DefaultMaterial10",
+    "mapTo" : "ROADE",
+    "class" : "material",
+    "persistentId" : "569d6b88-0fd7-441f-bdab-64237d00e366",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADE.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial14" : {
+    "name" : "DefaultMaterial14",
+    "mapTo" : "ROADA",
+    "class" : "material",
+    "persistentId" : "a7d56f64-1ee6-4ed1-8131-c21aefb1f953",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial16" : {
+    "name" : "DefaultMaterial16",
+    "mapTo" : "ROADC",
+    "class" : "material",
+    "persistentId" : "665a6428-6eee-4090-825f-f98ef712d194",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADC.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial21" : {
+    "name" : "DefaultMaterial21",
+    "mapTo" : "ROADPIT",
+    "class" : "material",
+    "persistentId" : "a5160dc5-58dd-4084-bdf9-320ce199337d",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADPIT.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial23" : {
+    "name" : "DefaultMaterial23",
+    "mapTo" : "ROADB",
+    "class" : "material",
+    "persistentId" : "8e32323a-8caa-4dc5-a9a5-68d6aaa85136",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADB.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial31" : {
+    "name" : "DefaultMaterial31",
+    "mapTo" : "ROADD",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "ac4c549e-63c2-4d7e-9476-bb11b77d7780",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADD.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial13" : {
+    "name" : "DefaultMaterial13",
+    "mapTo" : "APRONA",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "9e0f784d-a4fa-4e74-abdf-28e5edae0746",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/APRONA.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial15" : {
+    "name" : "DefaultMaterial15",
+    "mapTo" : "APRONY",
+    "internalName" : "Grid",
+    "class" : "material",
+    "persistentId" : "66e243c2-8b0d-48da-9eed-827564cf8948",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/APRONY.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  },
+  "DefaultMaterial21" : {
+    "name" : "DefaultMaterial21",
+    "mapTo" : "ROADPIT",
+    "class" : "material",
+    "persistentId" : "a5160dc5-58dd-4084-bdf9-320ce199337d",
+    "Stages" : [
+      {
+        "colorMap" : "levels/EASPORTS500/ROADPIT.DDS"
+      },
+      {},
+      {},
+      {}
+    ],
+    "GroundType" : "ASPHALT_PREPPED",
+    "defaultDepth" : 0
+    "detailDistance" : "2000",
+    "detailSize" : "1",
+    "diffuseSize" : "1",
+	"doubleSided" : true,
+    "materialTag0" : "Miscellaneous",
+    "materialTag1" : "vehicle",
+	"skidMarks" : true,
+    "showDust" : false
+  }
+}

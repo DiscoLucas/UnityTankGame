@@ -1,0 +1,14 @@
+{
+  "binaryFormat": "version(char), size(unsigned int), heightMap(heightMapSize * heightMapItemSize), layerMap(layerMapSize * layerMapItemSize), layerTextureMap(layerMapSize * layerMapItemSize), materialNames",
+  "datafile": "levels/EASPORTS500/terrain.ter",
+  "heightMapItemSize": 2,
+  "heightMapSize": 4194304,
+  "heightmapImage": "levels/EASPORTS500/terrain.terrainheightmap.png",
+  "layerMapItemSize": 1,
+  "layerMapSize": 4194304,
+  "materials": [
+    "test"
+  ],
+  "size": 2048,
+  "version": 8
+}

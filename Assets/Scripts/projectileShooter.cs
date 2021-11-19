@@ -9,7 +9,7 @@ public class projectileShooter : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -21,4 +21,6 @@ public class projectileShooter : MonoBehaviour
             shell.GetComponent<Rigidbody>().AddRelativeForce(new Vector3(0, launchVelocity, 0));
         }
     }
+
+   
 }
